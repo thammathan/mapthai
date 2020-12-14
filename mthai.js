@@ -1,4 +1,4 @@
-Highcharts.maps["mthai"] = {
+Highcharts.maps["mapthai/main/mthai"] = {
     "title": "Thailand",
     "version": "1.1.2",
     "type": "FeatureCollection",
